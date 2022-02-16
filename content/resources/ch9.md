@@ -2,8 +2,13 @@
 content_type: resource
 description: 'This resource explains the Diapycnal mixing I: turbulence through various
   examples.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/adb9bd9e24614b16cb0c86a413652cf0_ch9.pdf
+file: /media/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/adb9bd9e24614b16cb0c86a413652cf0_ch9.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: ch9.pdf
 uid: adb9bd9e-2461-4b16-cb0c-86a413652cf0
