@@ -7,6 +7,7 @@ file: /courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/8ec8d64
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: ch8.pdf
 uid: 8ec8d645-2518-c370-cbba-9eeacc78501f
 ---
 Lecture notes about statistical closures for isotropic homogeneous 3D turbulence, parameterizations in the absence of a mean flow, and parameterizations in the presence of a mean flow.
-

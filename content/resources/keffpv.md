@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: KeffPV.jpg
 uid: 49a06648-5529-bfbe-7075-9d020e8bad4d
 ---
 Graph of effective diffusivity based on QGPV, supplementing the lecture on tracer turbulence.
-

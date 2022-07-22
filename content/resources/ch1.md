@@ -6,6 +6,7 @@ file: /courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/def7774
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ch1.pdf
 uid: def77742-13dc-c9c5-7e89-b69a0858ebff
 ---
 Lecture notes with an introduction to the course and discussion of properties of turbulent flows and governing equations.
-

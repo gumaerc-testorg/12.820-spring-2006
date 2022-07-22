@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: PsiQ.jpg
 uid: 91408bda-5142-bf8f-e755-05e548a6a866
 ---
 Graph of vorticity and streamfunction, supplementing the lecture on tracer turbulence.
-
