@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the course description and information about prerequisites
+  and lecture topics.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 33cff697-e98a-2f76-f6a0-e8581dd93516
 ---

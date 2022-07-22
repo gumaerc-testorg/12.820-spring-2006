@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the course lecture notes and additional material.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: bec8e0e6-6fff-66ce-0558-0c295bd1495c
 ---
@@ -29,7 +33,7 @@ GRAPHICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction ([PDF - 1.0 MB]({{< baseurl >}}/resources/ch1))
+Introduction ({{% resource_link def77742-13dc-c9c5-7e89-b69a0858ebff "PDF - 1.0 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -41,7 +45,7 @@ Introduction ([PDF - 1.0 MB]({{< baseurl >}}/resources/ch1))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Transition to turbulence ([PDF]({{< baseurl >}}/resources/ch2))
+Transition to turbulence ({{% resource_link 43a1cd0c-6869-de8e-f3b0-5d0f2c836ece "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -53,7 +57,7 @@ Transition to turbulence ([PDF]({{< baseurl >}}/resources/ch2))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Statistics and turbulence ([PDF]({{< baseurl >}}/resources/ch3))
+Statistics and turbulence ({{% resource_link a3ea9a79-00ae-e9c9-ebaf-444ab2d92c1a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -65,7 +69,7 @@ Statistics and turbulence ([PDF]({{< baseurl >}}/resources/ch3))
 4-7
 {{< tdclose >}}
 {{< tdopen >}}
-Convection ([PDF]({{< baseurl >}}/resources/ch4))
+Convection ({{% resource_link f2d081d8-0646-9c87-d40d-8ff553411d77 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 [Page 5: planforms](/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2007/pages/lecture-notes/lec4-6)  
@@ -90,7 +94,7 @@ Convection ([PDF]({{< baseurl >}}/resources/ch4))
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Atmospheric convection ([PDF - 2.0 MB]({{< baseurl >}}/resources/ch5)) (Courtesy of Prof. Kerry Emanuel. Used with permission.)
+Atmospheric convection ({{% resource_link 0adb363d-42f3-5676-d1b2-344b5c0d0e07 "PDF - 2.0 MB" %}}) (Courtesy of Prof. Kerry Emanuel. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -102,7 +106,7 @@ Atmospheric convection ([PDF - 2.0 MB]({{< baseurl >}}/resources/ch5)) (Courtesy
 9
 {{< tdclose >}}
 {{< tdopen >}}
-3D turbulence ([PDF]({{< baseurl >}}/resources/ch6))
+3D turbulence ({{% resource_link d5e7f53a-00a5-f7ea-6ff2-3adf538e80b4 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -114,7 +118,7 @@ Atmospheric convection ([PDF - 2.0 MB]({{< baseurl >}}/resources/ch5)) (Courtesy
 10
 {{< tdclose >}}
 {{< tdopen >}}
-3D turbulence and tracers ([PDF]({{< baseurl >}}/resources/ch7))
+3D turbulence and tracers ({{% resource_link 105adce8-bbcb-60cd-5c73-6a60595b7014 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -126,7 +130,7 @@ Atmospheric convection ([PDF - 2.0 MB]({{< baseurl >}}/resources/ch5)) (Courtesy
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Closure schemes for 3D turbulence ([PDF]({{< baseurl >}}/resources/ch8))
+Closure schemes for 3D turbulence ({{% resource_link 8ec8d645-2518-c370-cbba-9eeacc78501f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -162,7 +166,7 @@ Ocean turbulence (double diffusions)
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Two-dimensional turbulence ([PDF]({{< baseurl >}}/resources/ch11))
+Two-dimensional turbulence ({{% resource_link 71c9dd80-b78d-0c58-1119-3b877ce7d925 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 [Page 2: 2d](/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2007/pages/lecture-notes/lec9)  
@@ -181,7 +185,7 @@ Two-dimensional turbulence ([PDF]({{< baseurl >}}/resources/ch11))
 15-16
 {{< tdclose >}}
 {{< tdopen >}}
-QG turbulence ([PDF]({{< baseurl >}}/resources/ch12))
+QG turbulence ({{% resource_link 70f7b0bb-2d8a-8d6b-30eb-8ac23f1a42da "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 [Page 4: means](/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2007/pages/lecture-notes/lec10)  
@@ -198,7 +202,7 @@ QG turbulence ([PDF]({{< baseurl >}}/resources/ch12))
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Particle dispersion and drift ([PDF]({{< baseurl >}}/resources/ch13))
+Particle dispersion and drift ({{% resource_link 223e7e78-db9b-3479-0d89-345abc8b4d71 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -210,12 +214,12 @@ Particle dispersion and drift ([PDF]({{< baseurl >}}/resources/ch13))
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Tracer turbulence ([PDF]({{< baseurl >}}/resources/ch14))
+Tracer turbulence ({{% resource_link 5776ce2d-cba6-525c-b23e-988f177cfdc0 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-[effective diffusivity in a channel]({{< baseurl >}}/pages/lecture-notes/lec14)  
+{{% resource_link eb1906fc-0b08-5624-df14-a38f2e1130d6 "effective diffusivity in a channel" %}}  
   
-[effective diffusivity in the troposphere and lower stratosphere]({{< baseurl >}}/pages/lecture-notes/lec14)
+{{% resource_link eb1906fc-0b08-5624-df14-a38f2e1130d6 "effective diffusivity in the troposphere and lower stratosphere" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -224,7 +228,7 @@ Tracer turbulence ([PDF]({{< baseurl >}}/resources/ch14))
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Transformed Eulerian mean ([PDF]({{< baseurl >}}/resources/ch15))
+Transformed Eulerian mean ({{% resource_link eadcaf99-483b-bd16-bfeb-9b6f49167041 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -248,7 +252,7 @@ Mean-field approximation
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Active tracer transport ([PDF]({{< baseurl >}}/resources/ch17))
+Active tracer transport ({{% resource_link e0ebe404-15d9-9ac2-dffc-02e0eba3963d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -260,7 +264,7 @@ Active tracer transport ([PDF]({{< baseurl >}}/resources/ch17))
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Boundary layer turbulence ([PDF]({{< baseurl >}}/resources/ch18))
+Boundary layer turbulence ({{% resource_link cf1ff07b-7c8c-48e9-a573-21d1e7272f5e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
