@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes with an introduction to the course and discussion of properties
   of turbulent flows and governing equations.
 file: /courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/def7774213dcc9c57e89b69a0858ebff_ch1.pdf
+file_size: 1077866
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

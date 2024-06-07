@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture slides providing a primer on atmospheric convection, courtesy
   of Prof. Kerry Emanuel. Used with permission.
 file: /courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/0adb363d42f35676d1b2344b5c0d0e07_ch5.pdf
+file_size: 2127311
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
