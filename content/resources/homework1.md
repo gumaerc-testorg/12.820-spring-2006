@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains a homework assignment.
 file: /courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/d3ee0afea485d067a1e5c47b9352f756_homework1.pdf
+file_size: 54607
 file_type: application/pdf
 learning_resource_types:
 - Assignments
