@@ -2,7 +2,7 @@
 content_type: resource
 description: Graph of effective diffusivity based on QGPV, supplementing the lecture
   on tracer turbulence.
-file: /courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/49a066485529bfbe70759d020e8bad4d_KeffPV.jpg
+file: /ol-ocw-studio-app/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/49a066485529bfbe70759d020e8bad4d_KeffPV.jpg
 file_size: 149433
 file_type: image/jpeg
 image_metadata:

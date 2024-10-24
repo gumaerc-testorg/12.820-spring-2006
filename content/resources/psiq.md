@@ -2,7 +2,7 @@
 content_type: resource
 description: Graph of vorticity and streamfunction, supplementing the lecture on tracer
   turbulence.
-file: /courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/91408bda5142bf8fe75505e548a6a866_PsiQ.jpg
+file: /ol-ocw-studio-app/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/91408bda5142bf8fe75505e548a6a866_PsiQ.jpg
 file_size: 176126
 file_type: image/jpeg
 image_metadata:
