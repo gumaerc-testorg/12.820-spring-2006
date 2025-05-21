@@ -5,7 +5,7 @@ description: Lecture notes about laminar to turbulent flows, the logistic map as
   and the onset of chaos in the logistic map, chaos and sensitivity to initial conditions,
   routes to chaos, a statistical description of chaos, turbulence and chaos, and statistical
   description of turbulence.
-file: /ol-ocw-studio-app/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/43a1cd0c6869de8ef3b05d0f2c836ece_ch2.pdf
+file: /courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/43a1cd0c6869de8ef3b05d0f2c836ece_ch2.pdf
 file_size: 212670
 file_type: application/pdf
 learning_resource_types:
