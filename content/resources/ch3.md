@@ -4,7 +4,7 @@ description: Lecture notes about a statistical description of turbulence, probab
   density functions and moments, joint probability density functions, ergodicity and
   statistical symmetries, central limit theorem, intermittency, the closure problem,
   the Reynolds equations, and eddy viscosity and eddy diffusivity.
-file: /ol-ocw-studio-app/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/a3ea9a7900aee9c9ebaf444ab2d92c1a_ch3.pdf
+file: /courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/a3ea9a7900aee9c9ebaf444ab2d92c1a_ch3.pdf
 file_size: 261114
 file_type: application/pdf
 learning_resource_types:

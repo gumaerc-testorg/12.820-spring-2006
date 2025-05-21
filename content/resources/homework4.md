@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a homework assignment.
-file: /ol-ocw-studio-app/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/c25328d24ac656d2fee29f75fe00f0ad_homework4.pdf
+file: /courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2006/c25328d24ac656d2fee29f75fe00f0ad_homework4.pdf
 file_size: 78495
 file_type: application/pdf
 learning_resource_types:
